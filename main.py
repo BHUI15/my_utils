@@ -17,7 +17,7 @@ def main():
     # print(review2.word_count())
 
     safe_devide()
-    
+    print("This is a test on 2025 Dec 9 on Github")
 
 if __name__ == "__main__":
     main()
